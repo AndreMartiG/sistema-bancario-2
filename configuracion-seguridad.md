@@ -15,3 +15,6 @@ Bloqueo de Cuentas: Implementa mecanismos para bloquear cuentas después de vari
 Monitoreo Continuo: Supervisa el registro de transacciones para detectar actividades inusuales o errores. Utiliza alertas para notificar sobre eventos críticos.
 
 * **Auditoría:** Habilita la auditoría de transacciones para rastrear cambios en la base de datos y detectar posibles amenazas.
+
+# Actualizacion:
+ Seguir los consejos para evitar vulnerabilidades de seguridad.
