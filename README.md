@@ -1,6 +1,7 @@
 # Banco Coquito SAS
 
-## Requisitos del sistema bancario a desarrollar
+## Sistema Bancario Simulado Básico:
 
-- Vinculacion de los nuevos clientes usando el número de celular.
-- Transferencia de Dinero especificando el celular destino y valor a transferir.
+Este proyecto simula un sistema bancario básico. Permite a los usuarios realizar operaciones como crear cuentas, consultar saldos, depositar y retirar fondos, y transferir dinero entre cuentas.
+
+![Captura git log --oneline --graph](GitLogOnlineGraph.png "Ramificación Repositorio sistema-bancario")
